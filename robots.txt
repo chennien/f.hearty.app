@@ -1,0 +1,9 @@
+#
+# Robots.txt file for f.hearty.app
+#
+# For questions, please contact llp3irk1@nien.co .
+# https://goo.gl/SQLdCk
+
+User-agent: *
+Disallow: /
+Allow: /.well-known/
