@@ -1,0 +1,6 @@
+http://f.hearty.app/* https://f.hearty.app/:splat 301!
+
+/ https://go.hearty.me/hj 200
+/wp-admin https://api.hearty.app/wp-admin 200
+/wp-login.php https://api.hearty.app/wp-admin 200
+/* https://go.hearty.me/hj 200

@@ -1,0 +1,10 @@
+#
+# Robots.txt file for f.hearty.app
+# Hearty Journal is a wholly owned subsidiary of Hearty Creative Inc.
+#
+# For questions, please contact https://mailhide.io/e/k7jWFOBo .
+# https://goo.gl/SQLdCk
+
+User-agent: *
+Disallow: /
+Allow: /.well-known/
